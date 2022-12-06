@@ -1,3 +1,13 @@
+# Knn means K nearest neighbors , in this algorithm we try to find nearest neighbors and add the intity into category of that neighbors
+
+
+
+
+
+
+
+
+
 """Base and mixin classes for nearest neighbors."""
 # Authors: Jake Vanderplas <vanderplas@astro.washington.edu>
 #          Fabian Pedregosa <fabian.pedregosa@inria.fr>
